@@ -113,7 +113,6 @@ Mac and Linux:
 
 ```
 REACT_NATIVE_PACKAGER_HOSTNAME='my-custom-ip-address-or-hostname' npm start
-```
 
 Windows:
 ```
